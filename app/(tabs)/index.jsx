@@ -55,7 +55,7 @@ export default function App() {
             Add Vehicle
           </Text>
           </Text>
-    
+    <View>Hello</View>
           <Text style={styles.per30Right}>
             <FontAwesomeIcon icon={faWallet} style={styles.iconDesign} />
             <FontAwesomeIcon icon={faBell} style={styles.iconDesign}  />
